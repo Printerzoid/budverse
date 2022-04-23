@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/character-creator/static/css/main.fbe3ca28.css",
+    "main.css": "/character-creator/static/css/main.369efd1d.css",
     "main.js": "/character-creator/static/js/main.a8555b94.js",
     "static/js/377.670ea193.chunk.js": "/character-creator/static/js/377.670ea193.chunk.js",
     "static/media/space.png": "/character-creator/static/media/space.73da66fc32ace3f7cbaa.png",
@@ -48,11 +48,11 @@
     "static/media/low_buns_back.png": "/character-creator/static/media/low_buns_back.65d1186a7a1091c687b4.png",
     "static/media/starshaped_afro_back.png": "/character-creator/static/media/starshaped_afro_back.89cb7e62d20fd35521b3.png",
     "static/media/tomato_hair_back.png": "/character-creator/static/media/tomato_hair_back.10d3e4c4f5c1363d9a1b.png",
+    "static/media/Myfont-Regular.ttf": "/character-creator/static/media/Myfont-Regular.5974e9726435b6400a59.ttf",
     "static/media/scratches.png": "/character-creator/static/media/scratches.0dae0baf99bca6a6887b.png",
     "static/media/orange_eyes.png": "/character-creator/static/media/orange_eyes.40219fb4298519af542f.png",
     "static/media/brown_eyes.png": "/character-creator/static/media/brown_eyes.a094aafdbe9de51ae945.png",
     "static/media/green_eyes.png": "/character-creator/static/media/green_eyes.3a319b31a4452bbc00af.png",
-    "static/media/Myfont-Regular.ttf": "/character-creator/static/media/Myfont-Regular.ad94f1bc110c9b236bc7.ttf",
     "static/media/eyebrow_8.png": "/character-creator/static/media/eyebrow_8.3da6f2c74d05ec91e684.png",
     "static/media/teeth.png": "/character-creator/static/media/teeth.27f1a209b7e71a66d539.png",
     "static/media/hazel_eyes.png": "/character-creator/static/media/hazel_eyes.24d6c1cfb9851f796b47.png",
@@ -78,12 +78,12 @@
     "static/media/buttons_lips.png": "/character-creator/static/media/buttons_lips.6e2acd7494ecc27e3cb6.png",
     "static/media/white_eyes.png": "/character-creator/static/media/white_eyes.708bc753a7d7eb85e2cf.png",
     "index.html": "/character-creator/index.html",
-    "main.fbe3ca28.css.map": "/character-creator/static/css/main.fbe3ca28.css.map",
+    "main.369efd1d.css.map": "/character-creator/static/css/main.369efd1d.css.map",
     "main.a8555b94.js.map": "/character-creator/static/js/main.a8555b94.js.map",
     "377.670ea193.chunk.js.map": "/character-creator/static/js/377.670ea193.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbe3ca28.css",
+    "static/css/main.369efd1d.css",
     "static/js/main.a8555b94.js"
   ]
 }
