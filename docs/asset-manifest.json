@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/budverse/static/css/main.39b034ee.css",
-    "main.js": "/budverse/static/js/main.0a7171f9.js",
+    "main.js": "/budverse/static/js/main.14cc1648.js",
     "static/js/377.36c33f08.chunk.js": "/budverse/static/js/377.36c33f08.chunk.js",
     "static/media/space.png": "/budverse/static/media/space.73da66fc32ace3f7cbaa.png",
     "static/media/hell.png": "/budverse/static/media/hell.b9594f3062ca4693805a.png",
@@ -28,7 +28,7 @@
     "static/media/diamond_head.png": "/budverse/static/media/diamond_head.4435cb5ce41e86acfcd2.png",
     "static/media/flame_hair.png": "/budverse/static/media/flame_hair.f55d09aa723451f970c3.png",
     "static/media/bathroom.png": "/budverse/static/media/bathroom.dda49758be904d240351.png",
-    "static/media/clover_head.png": "/budverse/static/media/clover_head.aed9057b500f2ce8f21f.png",
+    "static/media/clover_head.png": "/budverse/static/media/clover_head.c45d36903ed32273ab91.png",
     "static/media/tattoos.png": "/budverse/static/media/tattoos.7b78717ae4b3dbd3646c.png",
     "static/media/rectangle_head.png": "/budverse/static/media/rectangle_head.cda9a442cb314ee78f4c.png",
     "static/media/jellyfish_hair_back.png": "/budverse/static/media/jellyfish_hair_back.7bafee74fdfd333abd46.png",
@@ -79,11 +79,11 @@
     "static/media/white_eyes.png": "/budverse/static/media/white_eyes.708bc753a7d7eb85e2cf.png",
     "index.html": "/budverse/index.html",
     "main.39b034ee.css.map": "/budverse/static/css/main.39b034ee.css.map",
-    "main.0a7171f9.js.map": "/budverse/static/js/main.0a7171f9.js.map",
+    "main.14cc1648.js.map": "/budverse/static/js/main.14cc1648.js.map",
     "377.36c33f08.chunk.js.map": "/budverse/static/js/377.36c33f08.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39b034ee.css",
-    "static/js/main.0a7171f9.js"
+    "static/js/main.14cc1648.js"
   ]
 }
