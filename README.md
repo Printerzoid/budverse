@@ -1,4 +1,4 @@
-# <img src="docs/public/favicon.ico" width="25"/> [Budverse](https://printerzoid.github.io/budverse)
+# <img src="docs/favicon.ico" width="25"/> [Budverse](https://printerzoid.github.io/budverse)
 
 ## What is Budverse?
 
