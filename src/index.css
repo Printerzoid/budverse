@@ -16,6 +16,6 @@ body,
 }
 
 canvas {
-  max-width: 100%;
+  width: 100%;
   aspect-ratio: 667 / 800;
 }

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/character-creator/static/css/main.369efd1d.css",
+    "main.css": "/character-creator/static/css/main.4e5cf018.css",
     "main.js": "/character-creator/static/js/main.a8555b94.js",
     "static/js/377.670ea193.chunk.js": "/character-creator/static/js/377.670ea193.chunk.js",
     "static/media/space.png": "/character-creator/static/media/space.73da66fc32ace3f7cbaa.png",
@@ -78,12 +78,12 @@
     "static/media/buttons_lips.png": "/character-creator/static/media/buttons_lips.6e2acd7494ecc27e3cb6.png",
     "static/media/white_eyes.png": "/character-creator/static/media/white_eyes.708bc753a7d7eb85e2cf.png",
     "index.html": "/character-creator/index.html",
-    "main.369efd1d.css.map": "/character-creator/static/css/main.369efd1d.css.map",
+    "main.4e5cf018.css.map": "/character-creator/static/css/main.4e5cf018.css.map",
     "main.a8555b94.js.map": "/character-creator/static/js/main.a8555b94.js.map",
     "377.670ea193.chunk.js.map": "/character-creator/static/js/377.670ea193.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.369efd1d.css",
+    "static/css/main.4e5cf018.css",
     "static/js/main.a8555b94.js"
   ]
 }
