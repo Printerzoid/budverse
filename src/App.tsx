@@ -118,7 +118,7 @@ const App = () => {
                 <MenuIcon />
               </IconButton>
               <Box sx={{ flexGrow: 1 }}>
-                Character Creator
+                Budverse
               </Box>
             </Toolbar>
           </Paper>

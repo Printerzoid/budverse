@@ -1,7 +1,7 @@
 {
-  "name": "character-creator",
+  "name": "budverse",
   "version": "0.1.0",
-  "homepage": "https://printerzoid.github.io/character-creator",
+  "homepage": "https://printerzoid.github.io/budverse",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.8.2",
