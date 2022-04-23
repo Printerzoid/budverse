@@ -66,13 +66,13 @@ const Component: FunctionComponent<Props> = ({ restart, answers }) => {
     if (!context) return;
 
     canvas.width = 667;
-    canvas.height = 800 + 75;
+    canvas.height = 800;
 
     context.clearRect(0, 0, context.canvas.width, context.canvas.height);
 
     for (const image of images) {
       context.globalCompositeOperation = image.mode;
-      context.drawImage(image.image, 0, 75, context.canvas.width, context.canvas.height - 75);
+      context.drawImage(image.image, 0, 0, context.canvas.width, context.canvas.height);
     }
 
     const getFontSizeToFit = (ctx: CanvasRenderingContext2D, text: string, fontFace: string, width: number, height: number) => {
@@ -83,10 +83,10 @@ const Component: FunctionComponent<Props> = ({ restart, answers }) => {
 
     context.globalCompositeOperation = "source-over";
     context.fillStyle = "black";
-    context.font = getFontSizeToFit(context, name, "Arial", 250, 75) + "px Arial";
+    context.font = getFontSizeToFit(context, name, "Budverse", 250, 75) + "px Budverse";
     context.textAlign = "center";
     context.textBaseline = 'middle';
-    context.fillText(name, context.canvas.width / 2, context.canvas.height - 75, 275);
+    context.fillText(name, context.canvas.width / 2, context.canvas.height - 90, 275);
   }, [images, name]);
 
   const saveImage = () => {

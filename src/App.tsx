@@ -71,7 +71,7 @@ const App = () => {
       }
     },
     typography: {
-      fontFamily: ["ProductSans", "sans-serif"].join(',')
+      fontFamily: ["Arial", "sans-serif"].join(',')
     },
     palette: {
       mode: ((appearance === Appearance.SYSTEM && systemAppearanceDark) || appearance === Appearance.DARK) ? "dark" : "light",

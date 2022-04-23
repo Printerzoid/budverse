@@ -4,7 +4,14 @@
   box-sizing: border-box;
 }
 
-html, body, #root{
+@font-face {
+  font-family: "Budverse";
+  src: url(./assets/fonts/Myfont-Regular.ttf);
+}
+
+html,
+body,
+#root {
   height: 100%;
 }
 
